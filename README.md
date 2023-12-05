@@ -3,15 +3,15 @@
 # Red Hat Trusted Content - The Trustification Operator
 The Trustification Operator allows deployment of the Trustification solution on a Kubernetes (or k8s compatible) cluster.
 
-##Requirements
+## Requirements
 
-###Hardware (early estimation)
+### Hardware [WIP]
 
 20GB RAM
 4 Cpus/VCpus
 40 Storage space
 
-###Software
+### Software
 * The following are required 
 * 8s v1.22+ or OpenShift 4.9+
 * Operator Lifecycle Manager (OLM) support
