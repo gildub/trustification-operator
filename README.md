@@ -43,3 +43,9 @@ The Trustification indexing services:
 * Bombastic indexer
 * V11y ind
 
+### Minikube Quickstart
+```
+minikube config set memory 10240
+minikube config set cpus 4
+minikube start --addons=dashboard --addons=ingress --addons=olm
+```
